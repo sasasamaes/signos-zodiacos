@@ -1,0 +1,54 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 40px;
+font-style: normal;
+margin-right: 15px;
+margin-left: 20px;
+}
+.flaticon-aries1:before {
+	content: "\e000";
+}
+.flaticon-astrology14:before {
+	content: "\e001";
+}
+.flaticon-balance14:before {
+	content: "\e002";
+}
+.flaticon-capricorn2:before {
+	content: "\e003";
+}
+.flaticon-crabs1:before {
+	content: "\e004";
+}
+.flaticon-fish:before {
+	content: "\e005";
+}
+.flaticon-gemini5:before {
+	content: "\e006";
+}
+.flaticon-leo5:before {
+	content: "\e007";
+}
+.flaticon-sagittarius7:before {
+	content: "\e008";
+}
+.flaticon-scorpion4:before {
+	content: "\e009";
+}
+.flaticon-taurus1:before {
+	content: "\e00a";
+}
+.flaticon-virgo5:before {
+	content: "\e00b";
+}
